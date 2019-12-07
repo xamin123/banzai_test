@@ -1,0 +1,17 @@
+{
+    "name": "xamin/banzai_test",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sergey Bakanov",
+            "email": "sergeybknv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\banzai\\": "src"
+        }
+    },
+    "require": {}
+}
